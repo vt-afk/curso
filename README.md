@@ -1,2 +1,1 @@
-# aula1
 # curso
